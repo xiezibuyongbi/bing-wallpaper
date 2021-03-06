@@ -9,4 +9,6 @@ pip3 install selenium;pip3 install pywin32
 ```
 
 # Usage
-Edit the temporary background image storage path in src.py, and create a plan with windows task schedular to run it every day. 
+Edit the temporary background image storage path in src.py.
+You can create a plan with windows task schedular to run it every day or
+launch it manually.
