@@ -1,4 +1,4 @@
-# Function
+# Function 
 Download background image in cn.bing.com(bing China) and set it as your Windows desktop background.
 
 # Denpendency
